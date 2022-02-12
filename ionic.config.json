@@ -1,0 +1,7 @@
+{
+  "name": "tailwindlogin",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
